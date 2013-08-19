@@ -6,6 +6,6 @@ HeLiOS
  
  Aim at fixed and mobile workstations running on trusted hardware.
  
- The goal-purpose is to provide the best User Experience on the most accurate, reliable and secure Operating System infrastructure(: as in a set of interconnected structural elements)
+ The goal/purpose is to provide the best User Experience on the most accurate, reliable and secure Operating System infrastructure(: as in a set of interconnected structural elements)
 
 
